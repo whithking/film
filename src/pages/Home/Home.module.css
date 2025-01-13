@@ -1,0 +1,18 @@
+.container {
+    padding: 24px;
+}
+
+.filters {
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.movieCard {
+    width: 100%;
+}
+
+.movieCard img {
+    height: 300px;
+    object-fit: cover;
+}
